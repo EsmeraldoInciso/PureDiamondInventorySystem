@@ -1,0 +1,27 @@
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.exe.config
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.exe
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.pdb
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.xml
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.homePage.resources
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.Resources.resources
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.vbproj.GenerateResource.Cache
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.exe
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.xml
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.pdb
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.inventoryPage.resources
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.brandPage.resources
+C:\Users\Private\AppData\Local\Temporary Projects\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.vbprojResolveAssemblyReference.cache
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.exe.config
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.exe
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.xml
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.pdb
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.vbprojResolveAssemblyReference.cache
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.brandPage.resources
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.inventoryPage.resources
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.homePage.resources
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.Resources.resources
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\obj\Debug\PureDiamondInventorySystem.vbproj.GenerateResource.Cache
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.exe
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.pdb
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\bin\Debug\PureDiamondInventorySystem.xml
+E:\Private\Documents\VB2013\Projects\PureDiamondInventorySystem\PureDiamondInventorySystem\bin\Debug\mysql.data.dll
